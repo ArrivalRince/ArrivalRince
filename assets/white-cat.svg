@@ -1,0 +1,83 @@
+<svg width="220" height="220" viewBox="0 0 220 220" xmlns="http://www.w3.org/2000/svg">
+<style>
+  @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+  @keyframes pawL { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-4px)} }
+  @keyframes pawR { 0%,100%{transform:translateY(0)} 50%{transform:translateY(-3px)} }
+  @keyframes earWiggle { 0%,90%,100%{transform:rotate(0deg)} 95%{transform:rotate(-8deg)} }
+  @keyframes tailSwing { 0%,100%{transform:rotate(-15deg)} 50%{transform:rotate(15deg)} }
+  @keyframes cursor { 0%,100%{opacity:1} 50%{opacity:0} }
+  .blink { animation: blink 3s infinite; }
+  .pawL { animation: pawL 0.5s ease-in-out infinite; transform-origin: 88px 162px; }
+  .pawR { animation: pawR 0.5s ease-in-out infinite 0.25s; transform-origin: 132px 162px; }
+  .earL { animation: earWiggle 4s ease-in-out infinite; transform-origin: 85px 72px; }
+  .earR { animation: earWiggle 4s ease-in-out infinite 0.5s; transform-origin: 135px 72px; }
+  .tail { animation: tailSwing 2s ease-in-out infinite; transform-origin: 148px 158px; }
+  .cursor { animation: cursor 1s step-end infinite; }
+</style>
+
+<!-- keyboard -->
+<rect x="28" y="170" width="164" height="38" rx="5" fill="#e2e8f0"/>
+<rect x="34" y="176" width="152" height="26" rx="3" fill="#f8fafc"/>
+<text x="42" y="194" font-family="monospace" font-size="9" fill="#94a3b8">cd ~/projects</text>
+<rect class="cursor" x="116" y="181" width="1.5" height="12" fill="#94a3b8"/>
+
+<!-- tail -->
+<g class="tail">
+  <path d="M145 158 Q172 130 178 158 Q181 172 165 175 Q153 177 148 165 Q143 157 145 158" fill="#e2e8f0" stroke="#cbd5e1" stroke-width="1"/>
+</g>
+
+<!-- body -->
+<ellipse cx="110" cy="158" rx="55" ry="34" fill="white" stroke="#e2e8f0" stroke-width="1.2"/>
+
+<!-- ears -->
+<g class="earL">
+  <polygon points="82,88 68,58 100,72" fill="white" stroke="#e2e8f0" stroke-width="1.2"/>
+  <polygon points="82,88 72,64 96,74" fill="#fecdd3"/>
+</g>
+<g class="earR">
+  <polygon points="138,88 152,58 120,72" fill="white" stroke="#e2e8f0" stroke-width="1.2"/>
+  <polygon points="138,88 148,64 124,74" fill="#fecdd3"/>
+</g>
+
+<!-- head -->
+<ellipse cx="110" cy="108" rx="42" ry="38" fill="white" stroke="#e2e8f0" stroke-width="1.2"/>
+
+<!-- eyes -->
+<ellipse class="blink" cx="95" cy="104" rx="7" ry="7" fill="#1e293b"/>
+<circle cx="93" cy="101" r="2" fill="white"/>
+<ellipse class="blink" cx="125" cy="104" rx="7" ry="7" fill="#1e293b"/>
+<circle cx="123" cy="101" r="2" fill="white"/>
+
+<!-- nose -->
+<ellipse cx="110" cy="114" rx="5" ry="3.5" fill="#fecdd3"/>
+
+<!-- mouth -->
+<path d="M103 119 Q110 124 117 119" fill="none" stroke="#cbd5e1" stroke-width="1.2" stroke-linecap="round"/>
+
+<!-- whiskers left -->
+<line x1="100" y1="113" x2="72" y2="109" stroke="#94a3b8" stroke-width="0.8" stroke-linecap="round" opacity="0.7"/>
+<line x1="100" y1="116" x2="70" y2="115" stroke="#94a3b8" stroke-width="0.8" stroke-linecap="round" opacity="0.7"/>
+<line x1="100" y1="119" x2="72" y2="121" stroke="#94a3b8" stroke-width="0.8" stroke-linecap="round" opacity="0.7"/>
+
+<!-- whiskers right -->
+<line x1="120" y1="113" x2="148" y2="109" stroke="#94a3b8" stroke-width="0.8" stroke-linecap="round" opacity="0.7"/>
+<line x1="120" y1="116" x2="150" y2="115" stroke="#94a3b8" stroke-width="0.8" stroke-linecap="round" opacity="0.7"/>
+<line x1="120" y1="119" x2="148" y2="121" stroke="#94a3b8" stroke-width="0.8" stroke-linecap="round" opacity="0.7"/>
+
+<!-- paw left -->
+<g class="pawL">
+  <ellipse cx="88" cy="168" rx="16" ry="9" fill="white" stroke="#e2e8f0" stroke-width="1.2"/>
+  <ellipse cx="81" cy="173" rx="4" ry="3" fill="#fecdd3"/>
+  <ellipse cx="88" cy="175" rx="4" ry="3" fill="#fecdd3"/>
+  <ellipse cx="95" cy="173" rx="4" ry="3" fill="#fecdd3"/>
+</g>
+
+<!-- paw right -->
+<g class="pawR">
+  <ellipse cx="132" cy="168" rx="16" ry="9" fill="white" stroke="#e2e8f0" stroke-width="1.2"/>
+  <ellipse cx="125" cy="173" rx="4" ry="3" fill="#fecdd3"/>
+  <ellipse cx="132" cy="175" rx="4" ry="3" fill="#fecdd3"/>
+  <ellipse cx="139" cy="173" rx="4" ry="3" fill="#fecdd3"/>
+</g>
+
+</svg>

@@ -1,112 +1,167 @@
-<h1 align="center">Hi 👋, I'm Dira</h1>
-
-<!-- Animated Line -->
-<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<h1 align="center">
-  <img src="assets/DIRA2.png" alt="DIRA" width="30%">
-</h1>
-
-<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-<p style="font-size: 1.1em; line-height: 1.8; text-align: justify; color: #2c2c2c; background-color: #f8f9fa; padding: 16px 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08); font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  As a 5th-semester Information Systems student, I have a strong interest in technology—particularly in Web3, front-end development, and blockchain innovations. I enjoy keeping up with the latest tech trends and creating digital solutions that are both useful and user-friendly.
-</p>
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="mailto:dimasdrn21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/dimas-radithya-888496281">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/drn_2111">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-  </a>
-</div><br>
-
-<div align="center">
-  <img src="assets/cat.gif" alt="Cat Animation" width="40%">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Radithya21&theme=high-contrast&bg_color=0d1117&color=A855F7&line=A855F7&point=ffffff&area_color=A855F7&area=true&hide_border=true" alt="Grafik Kontribusi" />
-</div>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Radithya21/Radithya21/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Radithya21/Radithya21/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Radithya21/Radithya21/output/pacman-contribution-graph.svg">
-  </picture>
-</p>
-
-
-
-<!-- Statistik ringkas -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Radithya21&style=for-the-badge&color=A855F7" alt="Pengunjung Profil" />
-  <img src="https://img.shields.io/github/followers/Radithya21?style=for-the-badge&color=7B68EE" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Radithya21?style=for-the-badge&color=8B5CF6" alt="GitHub Stars" />
-</p>
-
-
-<div style="text-align: center; margin: 40px 0;">
-  <h2 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 2rem; color: #333; margin-bottom: 16px;">
-    Tech Stack
-  </h2>
-<div >
 <div align="center">
 
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" alt="Frontend Skills" />
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql" alt="Backend Skills" />
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFB3C6,FF85A1,FF6EB4&height=180&section=header&text=Hi,%20I'm%20Riva&fontSize=52&fontAlignY=38&fontColor=fff&desc=Information%20Systems%20Student%20·%20Frontend%20Developer%20·%20UI%2FUX%20Enthusiast&descSize=14&descAlignY=60&descColor=ffe0ec" />
 
 </div>
 
-<!-- Animated Line -->
-<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
-
-## 📊 Analitik GitHub
+<br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Radithya21&show_icons=true&theme=dark&bg_color=0d1117&title_color=A855F7&text_color=ffffff&icon_color=A855F7&border_color=A855F7&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radithya21&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&title_color=A855F7&text_color=ffffff&border_color=A855F7"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Lato&weight=600&size=18&duration=3000&pause=1000&color=D6336C&center=true&vCenter=true&width=480&lines=Building+things+that+are+useful+and+beautiful.;Always+learning%2C+always+growing.;Open+to+collaborate+on+meaningful+projects." />
 </div>
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Radithya21&theme=dark&background=0d1117&stroke=A855F7&ring=A855F7&fire=A855F7&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=A855F7&sideLabels=A855F7&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTVvMDAxMWsxN2ptdGVzZHM3bGdjNjlkaWMzaGpjdHAxY2FlZmI1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PAs2yGkqu2zSmCx0UL/giphy.gif" width="220px" alt="cat typing" />
 </div>
 
+<br>
 
+---
 
+<br>
 
+## About Me
 
-## 🏆 Pencapaian GitHub
+I'm a 5th-semester Information Systems student with a genuine love for building clean, user-friendly digital experiences. I care about the details — both in code and in design.
+
+Currently diving deeper into **React**, **Next.js**, and the world of **Web3 & Blockchain**. I believe great software is where logic meets aesthetics.
+
+```js
+const riva = {
+  focus      : ["Frontend Development", "UI/UX Design", "Web3"],
+  currently  : "Building projects that spark joy",
+  learning   : ["Next.js", "TypeScript", "Blockchain Fundamentals"],
+  motto      : "Code with intention. Design with heart.",
+};
+```
+
+<br>
+
+---
+
+<br>
+
+## Tech Stack
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Tools & Design**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+<br>
+
+---
+
+<br>
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Radithya21&theme=darkhub&no-bg=true&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=ArrivalRince&show_icons=true&bg_color=fff5f8&title_color=D6336C&text_color=444&icon_color=FF6EB4&border_color=FFB3C6&border_radius=12&include_all_commits=true&count_private=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArrivalRince&layout=compact&langs_count=7&bg_color=fff5f8&title_color=D6336C&text_color=444&border_color=FFB3C6&border_radius=12" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArrivalRince&background=fff5f8&stroke=FFB3C6&ring=FF6EB4&fire=D6336C&currStreakNum=444&sideNums=444&currStreakLabel=D6336C&sideLabels=D6336C&dates=999&border_radius=12" />
+
 </div>
 
-<!-- Animated Line -->
-<div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div><br>
+<br>
 
-
-<!-- Pacman Contribution Graph (Dark/Light Mode Support) -->
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; margin-top: 20px;">
-  <img src="assets/spiderman.gif" alt="Spiderman Animation" width="40%">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArrivalRince&bg_color=fff5f8&color=D6336C&line=FF85A1&point=D6336C&area=true&area_color=FFB3C6&hide_border=true&radius=6" />
 </div>
 
+<br>
+
+---
+
+<br>
+
+## GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArrivalRince&theme=rosy&no-bg=true&no-frame=true&margin-w=10&column=7" />
+</div>
+
+<br>
+
+---
+
+<br>
+
+## A Little More About Me
+
+| | |
+|---|---|
+| Currently learning | Next.js, TypeScript, Solidity |
+| Ask me about | Frontend development & UI/UX design |
+| Fun fact | My best ideas always come at 2 AM |
+| Vibe | Lo-fi music + iced coffee + clean code |
+
+<br>
+
+---
+
+<br>
+
+## Let's Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-riva%40gmail.com-D6336C?style=flat-square&logo=gmail&logoColor=white)](mailto:riva@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Riva-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/riva)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-@riva-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/riva)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF85A1?style=flat-square&logo=vercel&logoColor=white)](#)
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ArrivalRince&style=flat-square&color=FF85A1&label=profile+views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/ArrivalRince?style=flat-square&color=FFB3C6&label=followers" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/ArrivalRince?style=flat-square&color=FFCCD5&label=stars" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Lato&weight=400&size=15&duration=3500&pause=1200&color=D6336C&center=true&vCenter=true&width=420&lines=Thanks+for+visiting+%E2%80%94+let%27s+build+something+great." />
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FFB3C6,FF85A1,FF6EB4&height=120&section=footer&fontColor=fff" />
