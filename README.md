@@ -104,7 +104,7 @@ const riva = {
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArrivalRince&theme=rosy&no-bg=true&no-frame=true&margin-w=10&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ArrivalRince&theme=flat&column=7&margin-w=15&margin-h=15" />
 </div>
 
 <br>
