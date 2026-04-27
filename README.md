@@ -13,7 +13,7 @@
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bTVvMDAxMWsxN2ptdGVzZHM3bGdjNjlkaWMzaGpjdHAxY2FlZmI1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PAs2yGkqu2zSmCx0UL/giphy.gif" width="220px" alt="cat typing" />
+  <img src="/assets/kucing.gif" width="220px" alt="cat typing" />
 </div>
 
 <br>
